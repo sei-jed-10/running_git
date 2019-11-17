@@ -1,1 +1,13 @@
 change made on here
+on a scale from 1 to 5, how comfortable were you with this assignment?
+5
+What was a win you had with this assignment?
+I learn how  Git setup properly setup on my local machine.
+
+What was a challenge you had with this assignment?
+Lacking experience
+
+Is there anything that you'd like some further information on?
+Other stuff on your mind? work with anyone? tell us about it! 
+
+ 
