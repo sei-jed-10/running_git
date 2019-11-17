@@ -2,5 +2,5 @@ change made on here
 on a scale from 1 to 5, how comfortable were you with this assignment? 4
 What was a win you had with this assignment? learn how to use github
 What was a challenge you had with this assignment? it is new thing
-Is there anything that you'd like some further information on?  
-Other stuff on your mind? work with anyone? tell us about it! 
+Is there anything that you'd like some further information on? practice more on git 
+Other stuff on your mind? work with anyone? tell us about it! ...
